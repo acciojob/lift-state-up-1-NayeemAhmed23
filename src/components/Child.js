@@ -19,3 +19,4 @@ const Child = ({showModal, setShowModal}) => {
         </div>
     )
 }
+export default Child;
